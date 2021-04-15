@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/c0den4mes/game/master/img/monk.png
+https://raw.githubusercontent.com/c0den4mes/game/master/img/snake.png
